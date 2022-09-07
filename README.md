@@ -27,7 +27,7 @@ or Octave).
 
 ### Solution
 
-Something I have used in the past is GIMP. It's a free, open source alternative to photoshop, aka, a photo editor. I downloaded it a couple years ago to photoshop a few pictures, and it did the job. I wasn't very familiar with the software at the time, but apparently it's the most popular photo editor on Linux. I also just learned that GIMP stands for GNU Image Manipulation Program, which is crazy to me because I had no idea when i downloaded it with windows a couple years ago, before I knew anything about Linux.
+Something I have used in the past is GIMP. It's a free, open source alternative to photoshop, aka, a photo editor. I downloaded it a couple years ago to photoshop a few pictures, and it did the job. I wasn't very familiar with the software at the time, but apparently it's the most popular photo editor on Linux. I also just learned that GIMP stands for GNU Image Manipulation Program, which is crazy to me because I had no idea when I downloaded it with windows a couple years ago, before I knew anything about Linux.
 
 
 ## Problem 3 -- Your CPU
