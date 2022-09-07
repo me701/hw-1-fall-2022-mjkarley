@@ -27,11 +27,7 @@ or Octave).
 
 ### Solution
 
-Write your solution here.  Note, in the past, we've used a full, graphical
-version of Linux.  With WSL, you probably don't have as direct a path for
-exploring software in the Software Manager.  However, use the power of
-Google (or AskJeeves) to explore what sorts of open-source software is out
-there for technical or other applications.
+Something I have used in the past is GIMP. It's a free, open source alternative to photoshop, aka, a photo editor. I downloaded it a couple years ago to photoshop a few pictures, and it did the job. I wasn't very familiar with the software at the time, but apparently it's the most popular photo editor on Linux. I also just learned that GIMP stands for GNU Image Manipulation Program, which is crazy to me because I had no idea when i downloaded it with windows a couple years ago, before I knew anything about Linux.
 
 
 ## Problem 3 -- Your CPU
@@ -48,11 +44,8 @@ using `ls > directory_contents.txt` to dump the contents of a directory to a fil
 
 To display CPU information, I used the following command:
 
-```bash
-ls -al # <--- that's not right, but it shows you how to include
-       #      code in Markdown!
-```
 
+'''bash cat /proc/cpuinffo ''' which told me the speed for each of my 8 cores, and told me that I do, indeed, have 8 of them. My speed for each was about ~2994 MHz.
 ## Problem 4 -- Resource Hogs
 
 ### Statement
@@ -63,7 +56,7 @@ in your writeup.
 
 ### Solution
 
-
+thinking htop or top or ps aux but I know they're not showing every process
 
 ## Problem 5 -- `bash`
 
@@ -74,3 +67,8 @@ Where is `bash` located on your Linux system?  And what version of
 determine this information.
 
 ### Solution
+Using the command
+
+echo "${BASH_VERSION}"
+
+I saw that my bash version is 5.1.16(1)-release.
